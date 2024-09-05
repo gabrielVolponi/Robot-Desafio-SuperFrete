@@ -1,2 +1,17 @@
-# Robot-Desafio-SuperFrete
-Este repositório contém o framework de automação de testes desenvolvido com Robot, focado em garantir a qualidade dos principais fluxos da aplicação da SuperFrete. O framework foi criado para automatizar testes de pré-requisitos, fluxos principais e cenários de exceção, proporcionando uma abordagem robusta para a validação contínua do sistema.
+# Robot-Desafio-SuperFrete 🤖
+
+## 🧪 Web Automation Framework - Selenium
+Este é um framework de automação de testes web utilizando a biblioteca Selenium. O objetivo deste projeto é fornecer uma base simples e eficiente para a automação de testes de aplicativos web, com suporte a múltiplos navegadores e recursos avançados de controle de elementos e verificações.
+
+## 🛠️ Funcionalidades
+Testes automatizados para diferentes navegadores (Chrome, Firefox, etc.)
+Suporte a múltiplos ambientes e URLs
+Fácil integração com pipelines de CI/CD
+Relatórios detalhados dos testes executados
+
+## 📦 Instalação
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+cd seu-repositorio
